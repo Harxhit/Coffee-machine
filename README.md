@@ -1,4 +1,4 @@
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![Coffee Machine Demo](./coffee_machine_demo.gif)
 # Coffee Machine
 Description: Developed a fully functional coffee machine simulator in Python. The project mimics the operations of a real coffee machine, including selecting different types of coffee, managing resources like water, milk, and coffee beans, and handling payments.
 ## Key Features:
